@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/ArchivoBlack-Regular.ttf",
+      "sha1": "74e2a580194116d11c3e528dcbcd81c431a5dccb"
+    },
+    {
+      "path": "assets/fonts/LotaGrotesque-Bold.otf",
+      "sha1": "aee2e224ddeb530c988b712af6272d667402ebd9"
+    },
+    {
+      "path": "assets/fonts/LotaGrotesqueAlt1-Regular.otf",
+      "sha1": "58e1fa86b1974ca75e19c3224853ba1e3e659aca"
+    }
+  ]
+}
